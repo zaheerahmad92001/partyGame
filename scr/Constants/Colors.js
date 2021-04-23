@@ -1,0 +1,11 @@
+export const bgBlue= '#6125E2';
+export const textColor = '#E7DEFB';
+export const redColor ='#FD4C6D';
+export const darkBlue = '#521FC0';
+export const lighBlue ='#5A22D2'
+export const greenColor = '#2AEA6D';
+export const dimGray ='#9066EB';
+export const dimRed ='#AF38A8';
+export const pink ='#FE8399';
+export const yellowColor = '#FDD430';
+export const lightYellow = '#FEE16F';
