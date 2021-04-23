@@ -1,0 +1,10 @@
+export const ExtraBold = 'Nunito-ExtraBold'
+export const Bold = 'Nunito-Bold'
+export const SemiBold = 'Nunito-SemiBold'
+export const Light = 'Nunito-Light'
+export const Regular = 'Nunito-Regular'
+export const AlfaSlabOne ='AlfaSlabOne-Regular'
+export const BhalooMedium ='BalooBhai2-Medium'
+export const BhalooRegular = 'BalooBhai2-Regular'
+export const BhalooSemiBold = 'BalooBhai2-SemiBold'
+
